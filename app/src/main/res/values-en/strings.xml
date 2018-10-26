@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">XSCMAPP</string>
+    <string name="hospital_name">Xiaoshan hospital of traditional Chinese medicine</string>
+    <string name="first_first_content">The first item on the left of the directory in the first fragment</string>
+    <string name="first_second_content">The second item on the left of the directory in the first fragment</string>
+    <string name="first_third_content">The third item on the left of the directory in the first fragment</string>
+    <string name="first_fourth_content">The fourth item on the left of the directory in the first fragment</string>
+
+
+    <!--每一项的名称-->
+    <string name="first_firstPart">Hospital introduction</string>
+    <string name="first_secondPart">The hospital site</string>
+    <string name="first_thirdPart">Hospital honor</string>
+    <string name="first_fourthPart">Introduction to hospital staff</string>
+    <string name="first_fifthPart">Future development of hospitals</string>
+    <string name="first_sixthPart">Follow-up visit</string>
+
+    <!--fragment的图标名称-->
+    <string name="home_Page">HP</string>
+    <string name="shopping">SHOP</string>
+    <string name="video_teach">VM</string>
+    <string name="food">FOOD</string>
+    <string name="question_survey">QS</string>
+    <string name="care_to_introduce">CTI</string>
+    <string name="vod">VOD</string>
+    <string name="legal_aid">HELP</string>
+
+</resources>

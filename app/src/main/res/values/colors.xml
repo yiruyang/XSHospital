@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="tablayout_selected">#0cd4ff</color>
+    <color name="tablayout_unSelected">#fff</color>
+    <color name="gray">#bcacac</color>
+    <color name="seekbar">#44ccff</color>
+    <color name="dark_grey">#a19c9c</color>
+    <color name="black">#1f1f22</color>
+    <color name="blue">#2196f3</color>
+    <color name="blue1">#5da6f5</color>
+</resources>

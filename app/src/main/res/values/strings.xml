@@ -1,0 +1,388 @@
+<resources>
+    <string name="app_name">萧山中医院导医app</string>
+
+    <string name="hospital_name">萧山中医院</string>
+    <string name="first_first_content">第一个fragment中的目录左边第一项</string>
+    <string name="first_second_content">第一个fragment中的目录左边第二项</string>
+    <string name="first_third_content">第一个fragment中的目录左边第三项</string>
+    <string name="first_fourth_content">第一个fragment中的目录左边第四项</string>
+    <string name="first_fifth_content">第一个fragment中的目录左边第五项</string>
+
+    <!--每一项的名称-->
+    <string name="first_firstPart">医院简介</string>
+    <string name="first_secondPart">本科室简介</string>
+    <string name="first_thirdPart">出入院指引</string>
+    <string name="first_fourthPart">手术注意事项</string>
+    <string name="first_fifthPart">常见症状</string>
+    <string name="first_sixthPart">复诊随访</string>
+
+    <!--fragment的图标名称-->
+    <string name="home_Page">首页</string>
+    <string name="shopping">购物</string>
+    <string name="food">饮食</string>
+    <string name="video_teach">视频宣教</string>
+    <string name="question_survey">检查注意事项</string>
+    <string name="legal_aid">法律介入</string>
+    <string name="legal_help">法律援助</string>
+    <string name="vod">康复视频</string>
+
+    <!--科室简介-->
+    <string name="first_firstPart_firstString">
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;萧山中医院骨五病区是脊柱外科病区，是浙江中医药大学下腰痛诊治中心，科室主要收治腰椎间盘突出症、
+        腰椎管狭窄、腰椎退变性侧弯、胸腰椎骨折及部分四肢骨折患者，开展系列开放性手术、微创手术及中医药保守治疗。
+    </string>
+    <string name="sgr_name">科主任:孙观荣</string>
+    <string name="sgr_second_assignment">组长(兼)：孙观荣</string>
+    <string name="sgr_assignment">主任医师，分管全科室工作，兼管一组患者诊疗工作</string>
+    <string name="sgr_third_assignment">主任医师，兼管一组患者诊疗工作，床位：26-----51床，专家门诊：周一上午门诊一楼；周三上午名医馆六楼</string>
+    <string name="cyh_name">护士长:陈燕红</string>
+    <string name="cyh_assignment">副主任医师</string>
+    <string name="treatment_team">治疗小组</string>
+    <string name="treatment_first_team">一组</string>
+    <string name="treatment_second_team">二组</string>
+    <string name="s_g_r">孙观荣</string>
+    <string name="l_z_r">刘忠瑞</string>
+    <string name="l_z_r_assignment">组员：刘忠瑞(副主任医师，专家门诊：周六下午门诊一楼)</string>
+    <string name="w_y">汪扬</string>
+    <string name="w_y_assignment">组员：汪扬(主治医师)</string>
+    <string name="c_c_f">陈灿峰</string>
+    <string name="c_c_f_assignment">组员：陈灿峰(主治医师)</string>
+    <string name="x_j_w_assignment">组长：徐金渭</string>
+    <string name="x_j_w_second_assignment">主任医师，管理二组患者诊疗工作，床位：1----25床，专家门诊：周二上午、周四下午，门诊一楼</string>
+    <string name="x_j_w">徐金渭</string>
+    <string name="x_l_m">项利民</string>
+    <string name="x_l_m_assignment">组员：项利民(副主任医师；周五下午门诊一楼)</string>
+    <string name="l_h">刘洪</string>
+    <string name="l_h_assignment">刘洪(主治医师)</string>
+    <string name="s_w_f">施伟峰</string>
+    <string name="s_w_f_assignment">施伟峰(主治医师)</string>
+
+    <!--医院简介-->
+    <string name="doctor_address">萧山区育才路156号(邮编：311201)</string>
+    <string name="doctor_level">三级甲等</string>
+    <string name="doctor_email">xs96120@163.com</string>
+    <string name="doctor_url">http://www.xs120.com</string>
+    <string name="doctor_transportation_first">
+        乘坐区内716、703、702、711、713、720、726、725、
+    </string>
+    <string name="doctor_transportation_second">
+        739、743、736、733、657、660路均可直达。
+    </string>
+    <string name="doctor_phone">
+        医院总机：(0571)82732288\n
+        院 办：(0571)82722701\n
+        医务科：(0571)82722642\n
+        [监督电话](0571)82722642
+    </string>
+
+    <!--医院概况-->
+    <string name="doctor_survey">医院概况</string>
+    <string name="doctor_first_paragraph">
+         &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;杭州市萧山区中医院（浙江中医药大学附属江南医院），位于钱塘江南岸的萧山区北干山麓，
+        与杭州市区一江之隔。医院创建于1956年，是国家三级甲等综合性中医医院，是杭州市中医名院建设单位、
+        全国高等中医药院校临床教学基地、省级文明医院、浙江名中医馆萧山分馆、浙江省中医药优势学科培训基地、
+        浙江省农村中医药人才培养基地、浙江省中医适宜技术推广基地、浙江中医药大学管理学院实践基地、省级平安医院。
+    </string>
+
+    <string name="doctor_second_paragraph">
+         &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;近10年来，医院发展十分迅猛。2011年顺利通过浙江省三级乙等中医医院等级复评；
+        2012年在国家中医药管理局三级中医医院评审中以优异成绩晋级为国家三级甲等中医医院，是浙江省首批县区级的“三甲”等级医院。
+        2015年，成为浙江中医药大学附属江南医院，同年顺利通过国家中医药管理局大型中医医院巡查工作。
+    </string>
+
+    <string name="doctor_third_paragraph">
+         &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;医院目前占地面积47.6亩，拥有资产6.1亿元，总建筑面积8.5万余平方米，
+        核定床位680张，实际开放900张。医院设23个病区，90个专科专病门诊，36个中医特色的专科专病门诊，12个医技科室。2017年底，
+        全院职工总数1216人，高级职称166人，博士5人，硕士129人。医院设备先进，拥有西门子1.5T及美国GE0.35T核磁共振、美国GE8排、
+        16排螺旋CT，美国LOGIQ e9等彩色B超诊断仪、飞利浦X线数字化成像系统（DR）、日本森田全景牙科X线机、口腔CT机、西门子动态平板数字胃肠机（DRF）、
+        奥林巴斯260高清电子胃、肠镜等一大批全球领先的医疗设备，能为临床诊断提供精确的数据服务。2017 年，医院业务收入总额为5.76亿元，
+        同比增长6.31%。门（急）诊量突破百万大关达102.78万人次，同比增长3.65%。出院病人达2.68万人次，同比增长6.9%。业务技术、
+        业务实力在浙江省内中医院系统同级医院中独占鳌头。
+    </string>
+    <string name="doctor_fourth_paragraph">
+         &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;医院走“科技兴院、科技强院”的发展之路。搭建多个平台、出台多种措施、
+        创造多种机会激励青年学者从事、参与科研工作。5年中，获立杭州市级以上课题52项。其中2017 年立项9项。5年中，
+        有17项科研成果获省厅局以上的科技进步奖。2017年获浙江省科技进步二等奖2项，省医药卫生科技三等奖1项，发表 SCI论文6篇，
+        中华级杂志论文12篇。
+    </string>
+    <string name="doctor_fifth_paragraph">
+         &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;医院十分注重重点学科建设。5年内，医院已成功创建国家重点（特色）学（专）
+        科5个，省医学龙头、省重点学（专）科等6个，市级重点学科4个。2017年完成国家中医药管理局“十二五”重点专科、国家临床重点专科
+        、国家中医药管理局“十二五”重点学科骨伤科的验收工作。脾胃病学科成为“十三五”浙江省中医药建设项目，3个学科申报成为杭州市
+        2017-2019年建设周期医学重点学科，其中脊柱外科学为一类学科，脾胃病学、小儿骨外科学为三类学科。骨伤科病区达到12个，525张专
+        科病床，按手外、足踝、关节、脊柱、创伤、儿童骨科、骨肿瘤分科发展，为省内之最。
+    </string>
+    <string name="doctor_sixth_paragraph">
+         &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;医院人才荟萃，名医辈出。已拥有杭州市级名中医、杭州市基层名中医、萧山区
+        名中医19人次，浙江省“151”人才工程培养人员2人，杭州市“131”中青年人才各类层次培养人选13人，萧山区“1212”卫生高层次人
+        才22人。并拥有全国名老中医专家传承工作室 1个；全国老中医药专家学术经验继承指导老师1人，继承人2人；全国优秀中医临床人才1人
+        ；省名老中医专家传承工作室1个。作为浙江名中医馆萧山分馆，萧山中医院每周有多位省、市、区等各级名老中医药专家定期坐诊，为广
+        大患者提供一流的中医药服务。
+    </string>
+    <string name="doctor_seventh_paragraph">
+         &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;多年来，萧山中医院把强化服务文化、提升制度文化、打造环境文化、构筑人才文
+        化、培育精神文化作为全院文化建设的五大亮点。在“品质骨伤科、人文中医院”医院品牌文化的指引下，萧山中医院致力于办成省内知名
+        、深受患者信赖的品牌医院，为萧山中医药事业再添新的辉煌！
+    </string>
+
+    <!--康复视频-->
+    <string name="health_tab1">腰椎</string>
+    <string name="health_tab2">脊椎</string>
+    <string name="health_tab3">上肢</string>
+    <string name="health_tab4">下肢</string>
+
+    <!--AlertDialog-->
+    <string name="alertDialogTitle">请确认</string>
+    <string name="alertDialogMessage">有新的推送视频</string>
+    <string name="alertDialogNegativeNormal">取消</string>
+    <string name="alertDialogPositiveNormal">确认</string>
+    <string name="alertDialogNegative">我不看</string>
+    <string name="alertDialogPositive">瞅瞅吧</string>
+    <string name="alertDialogSureLeave">是否离开</string>
+
+
+    <!--饮食-->
+    <string name="diet_phone">订餐请联系：0571-82733060</string>
+
+
+    <!--购物-->
+    <string name="shopping_phone">正在制作中。。。</string>
+
+    <!--法律援助工伤事故-->
+    <string name="industrial_accident">工伤事故</string>
+        <string name="industrial_accident_first_paragraph">
+        工伤事故伤害发生后，应第一时间送医治疗。妥善保管治疗期间的病历本、医疗费发票、
+            住院记录、手术记录、出院小结，以及治疗期间所拍的CT、X片等影像资料。特别是
+            初次门（急）诊病历和《病情诊断证明书》是工伤认定非常重要的资料。
+        </string>
+
+        <string name="industrial_accident_second_paragraph">
+        劳动者或其家属应立即向用人单位联系沟通，要求垫付医疗费用、并支付停工期间的工资。
+            同时，要求用人单位向劳动局申报认定工伤。
+        </string>
+        <string name="industrial_accident_third_paragraph">
+        要求用人单位确认，是否已为劳动者参保了工伤保险。若用人单位已购买工伤保险，可要求
+            单位在一个月内申报工伤。如未购买工伤保险的，又不配合申请工伤认定的，应尽快搜
+            集劳动关系证据，自行在受伤之日起一年内申报工伤。
+        </string>
+        <string name="industrial_accident_fourth_paragraph">
+        证明劳动关系和因工作原因受伤，是工伤认定中最关键的一步。劳动合同、社保投保记录或
+            工资发放清单及记录、单位盖章的考勤表和工作证、工作服等，都可以在一定程度上证
+            明劳动关系。
+        </string>
+        <string name="industrial_accident_fifth_paragraph">
+        还要有两位以上工友的证言证明工伤事故发生的经过，证人需手写留下手机号，并在证言上
+            捺手印。没有工友证言的，可以提供与用人单位交涉时，单位代表承认你是员工且在受
+            伤当天上班和受伤的相关录音、录像或文字等证据。
+        </string>
+        <string name="industrial_accident_sixth_paragraph">
+        工伤认定申请应提供的材料\n
+        &#160;&#160;&#160;一、《工伤认定申请表》；\n
+        &#160;&#160;&#160;二、受伤害职工的身份证（复印件）；\n
+        &#160;&#160;&#160;三、用人单位营业执照（复印件）或工商部门出具的“核准企业的有关情况”；\n
+        &#160;&#160;&#160;四、劳动合同（复印件）或者事实劳动关系的有效证明材料；\n
+        &#160;&#160;&#160;五、合法医疗机构出具的受伤害职工初诊诊断证明书及初诊病历卡，或者省卫生行政
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+            部门批准的具有职业病诊断资格的机构出具的职业病诊断证明书或者职业病诊断\n
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;鉴定书。\n
+        &#160;&#160;&#160;六、两个以上旁证人证明及旁证人身份证（复印件）；
+        </string>
+
+        <string name="industrial_accident_seventh_paragraph">
+            属下列情况应提供相关的证明材料：\n
+        （1）因履行工作职责受到暴力伤害的，提交公安机关或人民法院的判决书或其他有效证明；\n
+        （2）由于机动车事故引起的伤亡事故提出工伤认定的，提交公安交通管理等部门的责任认定书或其他有效证明；\n
+        （3）因工外出期间，由于工作原因受到伤害的，提交公安部门证明或其他证明；发生事故下落不明的，认定因工死亡提交人民法院宣告死亡的结论；\n
+        （4）在工作时间和工作岗位，突发疾病死亡或者在48小时之内经抢救无效死亡的，提交医疗机构的抢救和死亡证明；\n
+        （5）属于抢险救灾等维护国家利益、公众利益活动中受到伤害的，按照法律法规规定，提交有效证明；\n
+        （6）属于因战、因公负伤致残的转业、复员军人，旧伤复发的，提交《革命伤残军人证》及医疗机构对旧伤复发的诊断证明。\n
+        </string>
+        <string name="industrial_accident_eighth_paragraph">
+            劳动局受理工伤申请后，应在60日内作出工伤认定的决定。若作出不予受理，或不予认定工伤的决定，
+            劳动者可以在收到决定书后的60日内提起行政复议；对复议决定仍然不满的，可以在收到收到复议决定
+            之日起15日内向人民法院起诉。劳动者也可以直接在收到《不予受理决定书》或《不予认定工伤决定书》
+            之日起3个月内直接向人民法院提起行政诉讼。
+        </string>
+        <string name="industrial_accident_ninth_paragraph">
+            认定为工伤的，可以在医疗终结且病情稳定后一定期限内，提出劳动能力鉴定申请。劳动能力鉴定后，
+            若对结果有异议的，可在收到结果之日起15日内向上一级劳动能力鉴定委员会申请重新鉴定。
+        </string>
+        <string name="industrial_accident_tenth_paragraph">
+            劳动能力鉴定结果确定后，可以先与用人单位协商赔偿。若协商不成，可携带材料委托律师申请劳动仲裁，
+            向单位主张工伤赔偿等各项劳动者权益。一方对劳动仲裁裁决不服的，可以在收到仲裁裁决书后15日内向人
+            民法院起诉。
+        </string>
+        <string name="industrial_accident_eleventh_paragraph">
+            浙江展博律师事务所承诺专业服务、规范收费!在此友情提示各位病友：不要轻信非正式法律服务机构不切
+            实际的赔偿承诺，尽量不要选择高比例的风险代理。展博咨询热线：0571-82667598、13516727102。
+        </string>
+    <!--交通事故-->
+    <string name="traffic_accident">交通事故</string>
+        <string name="traffic_accident_first_paragraph">
+            发生交通事故后，若伤情一般的，应立即拨打122报警电话，120抢救电话，
+            有条件的通知保险公司；伤情严重的，当时没有条件报案的，亲友应在最
+            短时间内补报警，勘察事故现场，并督促保险公司作好财物（如电动车等）
+            的定损工作。
+        </string>
+
+        <string name="traffic_accident_second_paragraph">
+            送医治疗后，门诊病历上记载的姓名要与身份证一致，并保管好门诊病历、
+            CT、X光片等各类诊断影像资料及其相关检验报告单；发现姓名与实际不符
+            的，应请求医院及时更改，否则不便于索赔。
+        </string>
+        <string name="traffic_accident_third_paragraph">
+            对交通事故的责任认定要高度重视，要及时、准确、完整地向交警队办案民
+            警说明事故经过，依法维权。对大事故的处理进度会比较慢，可以多去交警
+            队几次，既了解一下进展，又申明权利。千万不要听信“承认自己负全责可
+            以理赔更快”等不正确的所谓“窍门”。
+        </string>
+        <string name="traffic_accident_fourth_paragraph">
+            同时，要准确了解对方的各方面信息，如驾驶员、车主、肇事车辆的交强险
+            和商业第三者保险的投保情况，及早从交警队取得对方的驾驶证、行驶证、
+            保险单复印件。这将极大地方便将来的索赔和起诉。
+        </string>
+        <string name="traffic_accident_fifth_paragraph">
+            如对方为主要责任以上的，而我方伤势严重（如颅骨凹陷性或者粉碎性骨折，
+            颅内出血、脊髓严重损伤等）经公安部门鉴定构成重伤，对方可能构成交通
+            肇事罪，应当追究其刑事责任。
+        </string>
+        <string name="traffic_accident_sixth_paragraph">
+            如果是上下班途中发生事故且本人非主要责任的，或因工作原因在外出期间
+            发生事故的，可能还构成工伤，依法可以补差赔偿。应当及时咨询律师，尽
+            早向劳动合同履行地的劳动局申请认定工伤，至迟不能超过事故发生后一年。
+        </string>
+
+        <string name="traffic_accident_seventh_paragraph">
+            出院时，除结算医疗费用取得发票外，还应直接将住院记录、出院小结、体
+            检和手术记录复印后盖章，打印汇总性的用药清单，并将住院期间所拍的CT
+            、X光片等影像资料及相关检查报告单随出院时带回，以备复查和伤残鉴定。
+        </string>
+        <string name="traffic_accident_eighth_paragraph">
+            需要来年二次手术拆除内固定的，不必担心因治疗时间过长而影响索赔，因
+            为诉讼时效要从治疗终结或伤残鉴定之日起开始计算，且长达三年。如今后
+            将保留内固定生活的，需请医生开具相关证明，以作为伤残鉴定的资料。
+        </string>
+        <string name="traffic_accident_ninth_paragraph">
+            基本康复后，如不能就理赔与对方达成和解协议的，可委托律师办理评定伤
+            残事宜或诉讼索赔。办理委托时，请随带事故认定书、身份证、病历资料、
+            医疗费发票等。浙江展博律师事务所电话：0571-82667598、15158006344。
+            我们的承诺：专业服务、规范收费。
+        </string>
+
+
+    <!--手术注意事项-->
+    <string name="operation_before_attention">术前注意事项</string>
+    <string name="operation_before_first">一、术前检查</string>
+    <string name="operation_before_first_first">请在次日取回片子，以便带入手术室</string>
+    <string name="operation_before_personal_health">二、请做好个人卫生，清洁皮肤</string>
+    <string name="operation_before_personal_practice">三、术后需卧床的病人，练习在床上解大小便</string>
+
+    <string name="operation_beOn_attention">手术当天</string>
+    <string name="operation_beOn_ban1">一、请于手术当天00：00禁食，04:00禁饮</string>
+    <string name="operation_beOn_ban1_first">于早晨喝一小口水服下降压药</string>
+    <string name="operation_beOn_ban2">二、手术日晨更换手术衣裤</string>
+    <string name="operation_beOn_ban2_first">严禁携带首饰，假牙，内衣裤进入手术室</string>
+    <string name="operation_beOn_ban2_second">手术室位于8号楼5楼，请家属在5楼手术病人家属等待区等待</string>
+    <string name="operation_beOn_ban3">二、手术日晨更换手术衣裤</string>
+
+    <string name="operation_after_attention">术后注意事项</string>
+    <string name="operation_after_attention_first">一、手术后6小时内</string>
+    <string name="operation_after_attention_first_first">1、去枕平卧位，呕吐时头偏向一侧</string>
+    <string name="operation_after_attention_first_second">2、睡着时半小时呼唤一次</string>
+    <string name="operation_after_attention_first_third">3、禁食、禁饮</string>
+    <string name="operation_after_attention_second">二、手术后6小时后</string>
+    <string name="operation_after_attention_second_first">1、饮食</string>
+    <string name="operation_after_attention_second_second">宜食清淡易消化的食物，如稀饭、馄饨、面条等</string>
+    <string name="operation_after_attention_second_third">忌食肥甘厚腻、生冷刺激性食物</string>
+    <string name="operation_after_attention_second_fourth">2、功能锻炼</string>
+
+    <string name="dvt">预防深静脉血栓</string>
+    <string name="dvt_first">一、功能锻炼</string>
+    <string name="dvt_second">二、药物预防</string>
+    <string name="dvt_third">低分子肝素钠针</string>
+    <string name="dvt_fourth">达肝素钠针</string>
+
+    <string name="hcs">防止血液高凝状态</string>
+    <string name="hcs_first">1、选择清淡低脂饮食，进食富含维生素的新鲜蔬菜水果，如番茄、蘑菇、芹菜、海带、黑木耳等。</string>
+    <string name="hcs_second">2、每日饮水>1500ml，保证足够的液体量，防止血液浓缩。</string>
+    <string name="hcs_third">3、保持大便通畅，必要时使用开塞露、苁蓉通便口服液等，避免因排便困难引起腹压增高，影响静脉回流。</string>
+    <string name="hcs_fourth">4、保持心情舒畅，防止引起交感、迷走神经功能紊乱，血管舒缩功能失调。</string>
+
+
+    <!--first_thirdPart-->
+    <string name="first_third_first_font">出入院办理及医保流程</string>
+    <string name="first_third_second_font">入院须知</string>
+    <string name="first_third_third_font">安全提示</string>
+    <string name="first_third_fourth_font">请协助我们确认您手腕带上的信息</string>
+    <string name="first_third_fifth_font">使用中的仪器请勿擅自调节</string>
+    <string name="first_third_sixth_font">住院期间请勿擅自离开医院</string>
+    <string name="first_third_sevevth_font">进食时请注意细嚼慢咽,防止咳痰误吸</string>
+    <string name="first_third_eightth_font">我们已经为您调好滴速,请勿擅自调节</string>
+    <string name="first_third_ninth_font">医院是公共场所,请您保管好自己的财物</string>
+    <string name="first_third_tenth_font">住院期间请勿擅自离开医院</string>
+
+
+    <string name="first_third_eleventh_font">预防跌倒十知</string>
+    <string name="first_third_twelve_font">行动不便、虚弱无法自我照顾、视力下降的病人，请家属在旁陪伴，协助活动。</string>
+    <string name="first_third_thirdteen_font">下床上请慢慢起身，特别是您在服用某些特殊药物时。如降压药，安眠药等。</string>
+    <string name="first_third_fourteen_font">卧床时请拉起床栏，特别是病人躁动不安、意识不清醒时。</string>
+    <string name="first_third_fifteen_font">请穿上适合尺寸的衣裤、以免被绊倒。</string>
+    <string name="first_third_sixteen_font">当您需要协助时，请按呼叫铃，护士会来到您身边。</string>
+    <string name="first_third_seventeen_font">请穿合适尺寸的鞋子，请勿穿易滑的拖鞋。</string>
+    <string name="first_third_eighteen_font">病房保持充足光线，使您行动更方便。</string>
+    <string name="first_third_ninteen_font">将您的生活用品放在您容易取到的地方。</string>
+    <string name="first_third_twenty_font">将您的物品收纳于柜中，保持走道通畅。</string>
+    <string name="first_third_twenty_one_font">地面及卫生间保持干燥，请勿将水泼在地上。</string>
+    <string name="first_third_twenty_two_font">防跌倒标识</string>
+    <string name="first_third_twenty_third_font">上床休息时，使用床栏，并嘱家人陪护在床旁</string>
+
+    <string name="first_third_twenty_fourth_font">医院设施</string>
+    <string name="first_third_twenty_fifth_font">呼叫用铃</string>
+    <string name="first_third_twenty_sixth_font">住院信息查询</string>
+    <string name="first_third_twenty_seventh_font">打开水</string>
+    <string name="first_third_twenty_eigth_font">微波炉</string>
+    <string name="first_third_twenty_ninth_font">晾衣间</string>
+    <string name="first_third_twenty_tenth_font">病床的使用</string>
+    <string name="first_third_twenty_tenth_one_font">陪客躺椅</string>
+    <string name="first_third_twenty_tenth_two_font">病室物品摆放</string>
+
+
+    <string name="first_third_twenty_tenth_three_font">医保办理流程</string>
+    <string name="first_third_twenty_tenth_four_font">无外伤 （骨病、感染、肿瘤等）</string>
+    <string name="first_third_twenty_tenth_fif_font">第一步：医生开住院单后，直接在住院单上注明“同意医保”并签名</string>
+    <string name="first_third_twenty_tenth_six_font">第二步：拿住院单与医保卡到出入院处办理住院手续。住院单上有医保盖章就表明已经进入医保了。</string>
+    <string name="first_third_twenty_tenth_seven_font">第三步：把住院单给护士，医保卡、病历卡自己保留。</string>
+    <string name="first_third_twenty_tenth_eight_font">有外伤</string>
+    <string name="first_third_twenty_tenth_nine_font">比无外伤要多填一张“杭州市基本医疗保险外伤病人情况备案表”，同时需要去门诊四楼医保办审核同意后才能去出入院处办理手续。</string>
+    <string name="first_third_twenty_tenth_ten_font">第一步：去医生处拿“杭州市基本医疗保险外伤病人情况备案表”，如实填写并签名。</string>
+    <string name="first_third_twenty_tenth_ele_font">第二步：把“杭州市基本医疗保险外伤病人情况备案表”给主管医生审核，实际情况要与患者病例记载一致，主管医生审核签字后，同时在住院单上签字“同意医保”、签名。</string>
+    <string name="first_third_twenty_tenth_twe_font">第三步：拿住院单、医保卡与“杭州市基本医疗保险外伤病人情况备案表”三样去门诊四楼医保办审核同意并签名。</string>
+    <string name="first_third_twenty_tenth_third_font">第四步：拿上面三样物件去出入院处办理手续。</string>
+    <string name="first_third_twenty_tenth_fourth_font">填“杭州市基本医疗保险外伤病人情况备案表”注意事项：</string>
+
+    <string name="first_third_twenty_tenth_fifth_font">规定病种医保流程</string>
+    <string name="first_third_twenty_tenth_sixth_font">第一步</string>
+    <string name="first_third_twenty_tenth_seventh_font">由医生填写诊断证明，有病理报告的出具病理报告，没有的出具相关依据如ct报告等，住院病人带上大病历。</string>
+    <string name="first_third_twenty_tenth_eighth_font">第二步</string>
+    <string name="first_third_twenty_tenth_nineth_font">填写下表，表格到医保办取，然后去区医保中心办理特种医保卡。</string>
+    <string name="first_third_twenty_tenth_tenth_font">第三步</string>
+    <string name="first_third_twenty_tenth_eleth_font">门诊报销享受住院报销待遇。即门诊报销比例提高百分之六，住院报销比例和普通病种一样。规定病种门诊不仅提高
+        百分之六，还可免起付线，但限备案病种范围内的用药和检查。如备案是肝癌，只能与之相关的用药和检查，感冒药等开具时不享受
+        规定病种待遇。</string>
+
+    <string name="first_third_thirty_one_font">异地医保办理流程</string>
+    <string name="first_third_thirty_two_font">流程</string>
+    <string name="first_third_thirty_three_font">1.异地安置异地工作人员由其所在单位为其指定1-2所居住地定点医疗机构，并报医疗保险经办机构备案；</string>
+    <string name="first_third_thirty_four_font">2.异地安置异地工作人员患病在居住地定点医疗机构就诊所发生的医疗费用，由本人或所在单位先行垫付，
+        治疗结束后，由所在单位持参保人员医疗证及病历、有效费用票据、复式处方、住院费用清单等在规定日期到社会医疗保险经办机构进行
+        结算。</string>
+    <string name="first_third_thirty_five_font">转诊转院结算</string>
+    <string name="first_third_thirty_six_font">1.参保人员因定点医疗机构条件所限或因专科疾病转往其它医疗机构诊断治疗的，
+        需填写转诊转院审批表。由经治医师提出转诊转院理由，科主任提出转诊转院意见，医疗机构医保办审核，分管院长签字，
+        报市医保中心审批后，方可转院；</string>
+    <string name="first_third_thirty_seven_font">2.转诊转院原则上先市内后市外、先省内后省外。市内转诊转院规定在定点医疗机构间进行。
+        市外转诊转院须由本市三级以上定点医疗机构提出；</string>
+
+    <string name="first_third_thirty_eight_font">3.参保人员转诊转院后发生的医疗费用，由个人或单位先用现金垫付，医疗终结后，
+        由参保人或其代理人持转诊转院审批表、病历证书、处方及有效单据，到医保经办机构报销属于统筹基金支付范围的住院费用。</string>
+</resources>

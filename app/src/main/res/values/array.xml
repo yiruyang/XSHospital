@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--fifth_fragment-->
+<resources>
+    <string-array name="upper_limb">
+        <item>前臂</item>
+        <item>上臂</item>
+        <item>腕关节</item>
+        <item>肘关节</item>
+        <item>手</item>
+    </string-array>
+
+    <string-array name="lower_limb">
+        <item>大腿</item>
+        <item>踝关节</item>
+        <item>膝关节</item>
+        <item>小腿</item>
+        <item>足</item>
+    </string-array>
+
+</resources>
+

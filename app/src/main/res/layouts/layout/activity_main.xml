@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a12878.xshospital.MainActivity">
+
+    <FrameLayout
+        android:id="@+id/id_fragmentLayout_title"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+
+    <include
+        android:id="@+id/id_ly_bottombar"
+        android:layout_width="match_parent"
+        android:layout_height="113dp"
+        android:layout_alignParentBottom="true"
+        layout="@layout/bottombar"/>
+
+    <FrameLayout
+        android:id="@+id/id_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/id_ly_bottombar"
+        android:layout_below="@id/id_fragmentLayout_title" />
+
+</RelativeLayout>

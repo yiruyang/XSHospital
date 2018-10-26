@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@drawable/fragmentlayout_shadow"
+    >
+
+    <ImageButton
+        android:id="@+id/id_title_left_btn"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dp"
+        android:background="@mipmap/doctor_flag"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="25dp"
+        android:layout_toRightOf="@id/id_title_left_btn"
+        android:text="@string/hospital_name"
+        android:textColor="#5a5a5a"
+        android:textSize="24sp"/>
+
+    <Switch
+        android:id="@+id/language"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="58dp"
+        android:showText="true"
+        android:textOff="中"
+        android:textSize="3sp"
+        android:textOn="E"
+        android:layout_centerVertical="true"/>
+
+    <ImageButton
+        android:id="@+id/brightness"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/language"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="40dp"
+        android:background="@drawable/lightness_icon"/>
+</RelativeLayout>
